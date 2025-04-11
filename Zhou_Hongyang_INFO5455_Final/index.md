@@ -25,11 +25,6 @@ tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducat
 
 -->
 
-<!-- 
-AI use: 
-I used Claude to help me do this assignment. I primarily leveraged it to generate summaries of lengthy article resources I discovered, which helped me grasp key concepts before writing my own analysis. I also asked it to identify potential gaps in my research, and it suggested additional resources that I independently verified afterward. After completing my draft, I used Claude for grammar checking and vocabulary refinement.
--->
-
 
 ## Overview
 
